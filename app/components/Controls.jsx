@@ -22,7 +22,6 @@ var Controls = React.createClass({
       }
     }
 
-
     return (
       <div className="controls">
         {renderStartStopButton()}
